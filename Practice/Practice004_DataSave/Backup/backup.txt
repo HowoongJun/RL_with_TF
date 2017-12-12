@@ -1,0 +1,6 @@
+171208 v0
+15000 Train (6000 Full Random + 6000 Specific Random + 3000 Full Random)
+Specific Random: 특정 구간 (Goal 주변) 위주로 Obstacle이 등장하도록 세팅해서 훈련.
+
+171209 v0
+15000 Train Full Random
