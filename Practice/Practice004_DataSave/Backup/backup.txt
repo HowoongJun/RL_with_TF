@@ -4,3 +4,7 @@ Specific Random: 특정 구간 (Goal 주변) 위주로 Obstacle이 등장하도�
 
 171209 v0
 15000 Train Full Random
+
+171220 v0
+100000 Don't Move Train
+100000 Move Train
