@@ -1,8 +1,0 @@
-prefix=/home/howoongjun/gym-gazebo/gym_gazebo/envs/installation/catkin_ws/devel
-
-Name: move_slow_and_clear
-Description: Description of move_slow_and_clear
-Version: 1.12.14
-Cflags: -I/home/howoongjun/gym-gazebo/gym_gazebo/envs/installation/catkin_ws/src/navigation/move_slow_and_clear/include
-Libs: -L/home/howoongjun/gym-gazebo/gym_gazebo/envs/installation/catkin_ws/devel/lib -lmove_slow_and_clear
-Requires: geometry_msgs nav_core pluginlib roscpp
